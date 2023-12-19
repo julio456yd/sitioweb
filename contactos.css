@@ -1,0 +1,16 @@
+body {
+    background-color: #2e090b;
+    color: white; 
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+.contact-info {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.contact-info p {
+    margin-bottom: 10px;
+}

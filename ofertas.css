@@ -1,0 +1,22 @@
+body {
+    
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: rgb(65, 9, 9);
+    
+}
+
+.special-offers {
+    text-align: center;
+    margin-top: 50px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+.price {
+    color: red;
+    font-weight: bold;
+}
